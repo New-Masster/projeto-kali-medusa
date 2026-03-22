@@ -464,4 +464,4 @@ Para dúvidas sobre:
 Desenvolvido por **Rogério Oliveira**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rog%C3%A9rio-oliveira-0b656339/)
-[![Portfolio](https://img.shields.io/badge/Meu_Portfólio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://web.dio.me/users/roger_oliveira16?tab=achievements)
+[![DIO.me](https://img.shields.io/badge/Meu_Perfil_DIO.me-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://web.dio.me/users/roger_oliveira16?tab=achievements)
